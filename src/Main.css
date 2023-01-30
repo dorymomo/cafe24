@@ -1,0 +1,97 @@
+*{
+    background-color: bisque;
+    color:balck;
+
+}
+h1{
+    color : brown;
+    text-align: center; 
+    
+}
+h3{
+    color :  brown;
+    
+}
+.row{
+    display: flex;
+    
+    color: blueviolet;
+}
+.row div{
+    width: 90px;
+}
+.right{
+    float: right;
+}
+
+.input-box {
+    float: left;
+    position: relative;
+    
+  
+}
+.logo {
+    text-align: center;
+}
+.logomove{
+    text-align: center;
+}
+.menu{
+    padding-top: 10px;
+    padding-left: 50px;
+     
+}
+.menu img{
+    margin-left:20px;   
+}
+.txt-box{
+    list-style: none;
+    font-family: 'SUIT-Regular','Noto Sans KR','맑은 고딕','Malgun Gothic', 'dotum', sans-serif !important;
+    font-size: 100%;
+    padding: 0;
+    margin: 0;
+    word-break: keep-all;
+    -webkit-text-size-adjust: none;
+    text-align: center;
+}
+ul{
+    font-family: 'SUIT-Regular','Noto Sans KR','맑은 고딕','Malgun Gothic', 'dotum', sans-serif !important;
+    font-size: 100%;
+    word-break: keep-all;
+    -webkit-text-size-adjust: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-flow: row wrap;
+}
+.but-1{
+    list-style: none;
+    font-family: 'SUIT-Regular','Noto Sans KR','맑은 고딕','Malgun Gothic', 'dotum', sans-serif !important;
+    font-size: 100%;
+    padding: 0;
+    margin: 0;
+    word-break: keep-all;
+    -webkit-text-size-adjust: none;
+    border: 0;
+    background: none;
+    cursor: pointer;
+
+}
+.logocenter{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.form-check{
+    float: left;
+    font-size: 30px;
+    text-align: center;
+    ;
+}
+.check1{
+    text-align: center;
+    height: 50px;
+    width: 660px;
+    margin:auto;
+}
